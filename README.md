@@ -1,4 +1,4 @@
-# proxmox
+# Setting up proxmox cluster for highly available migrations/redundancy
 
 My dell server booted with proxmox where I have some VMS. I created 3 VMs (the ones named pve1/2/3) and booted proxmox onto them.
 
