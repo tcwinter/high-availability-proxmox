@@ -48,4 +48,4 @@ And back again.
 
 ![alt text](images/weback.png)
 
-So with this we can maintain operations with no manual intervention in case of a severe fault. Of course the other big issue here is the potential for some application servers not using dns names and instead using IP addresses. This brings on the problem of having to reconfig several application servers, increasing downtime. A potential solution for this is implementing vxlan. 
+So with this we can maintain operations with no manual intervention in case of a severe fault. Of course the other big issue here is the potential for some application servers not using dns names and instead using IP addresses. This brings on the problem of having to reconfig several application servers, increasing downtime.  
