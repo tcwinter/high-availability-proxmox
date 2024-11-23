@@ -40,7 +40,7 @@ First I just tested a basic migration. I started a constant ping on my linux VM 
 
 ![alt text](images/migrate.png)
 
-Now to test a node failure. For this I simply shut down the pve1 VM. 
+Now to test a node failure. For this I simply shut down the pve1 VM and the linux VM automagically migrated to the next node. 
 
 ![alt text](images/disaster.png)
 
